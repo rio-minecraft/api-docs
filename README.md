@@ -1,3 +1,3 @@
-# Документация API сайта [rioworld.su](https://rioworld.su)
+# Документация API сайта [rioworld.ru](https://rioworld.ru)
 
-Документация доступна на [GitHub Wiki](https://rioworld.su).
+Документация доступна на [GitHub Wiki](https://rioworld.ru).
